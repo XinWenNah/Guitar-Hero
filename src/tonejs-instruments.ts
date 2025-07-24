@@ -2,7 +2,6 @@
  * @fileoverview A sample library and quick-loader for tone.js
  *
  * @author N.P. Brosowsky (nbrosowsky@gmail.com)
- * Edited by Rhys Newbury to make a bit cleaner
  * https://github.com/nbrosowsky/tonejs-instruments
  */
 import * as Tone from "tone";
